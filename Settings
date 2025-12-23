@@ -4,6 +4,9 @@ Pos = default
 File = 
 Host = 127.0.0.1
 Port = 7002
+Bebegig_end
+
+Credits_start
 Lorem ipsum dolor sit amet,
 consectetur adipisicing elit,
 sed do eiusmod tempor incididunt|11|20
@@ -19,4 +22,4 @@ cillum dolore eu fugiat nulla pariatur.|12|20|1|&H00A500
 Excepteur sint occaecat cupidatat non proident,
 sunt in culpa qui officia
 deserunt mollit anim id est laborum.
-Bebegig_end
+Credits_end
