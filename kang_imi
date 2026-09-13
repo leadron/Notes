@@ -1,0 +1,46 @@
+{
+    "nama": "Kang Imi (official)",
+    "description": "Penanaman cabe di polybag dengan metode kang Imi di youtube",
+    "treatments": [
+        {
+            "hari": "1",
+            "todo": "Penyemaian",
+            "keterangan": "Media :\r\n- 1 bagian tanah\r\n- 1 bagian cocopeat\r\n- 1 bagian pupuk kandang"
+        },
+        {
+            "hari": "7",
+            "todo": "Penyemprotan fungisida",
+            "keterangan": "Dithane, Antacol"
+        },
+        {
+            "hari": "14",
+            "todo": "Pemupukan 1",
+            "keterangan": "NPK 1515\r\nDosis 1 gram per polybag"
+        },
+        {
+            "hari": "21",
+            "todo": "Pemupukan 2",
+            "keterangan": "NPK 1616\r\nDosis 1 gram per polybag"
+        },
+        {
+            "hari": "30",
+            "todo": "Pindah tanam ke polybag 15",
+            "keterangan": "Pemindahan sementara"
+        },
+        {
+            "hari": "40",
+            "todo": "Pindah tanam ke polybag 35/40",
+            "keterangan": "Pemindahan ke media utama"
+        },
+        {
+            "hari": "50",
+            "todo": "Pemupukan NPK 1616",
+            "keterangan": "NPK 1616\r\nDosis 1 gram per polybag"
+        },
+        {
+            "hari": "60",
+            "todo": "Pemupukan buah",
+            "keterangan": "Dosis disesuaikan"
+        }
+    ]
+}
