@@ -1,6 +1,10 @@
 {
     "nama": "Kang Imi (official)",
     "description": "Penanaman cabe di polybag dengan metode kang Imi di youtube",
+    "isOfficial": true,
+    "bahasa": "id",
+    "author": "SELMA FARM",
+    "kontakAuthor": "support_kebunku@wonderiastudio.com",
     "treatments": [
         {
             "hari": "1",
